@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Hello world!!\n"
+echo "Hello world!!"
+
+chmod +x ./hello.sh
