@@ -2,4 +2,4 @@
 
 echo "Hello world!!"
 
-chmod +x ./Hi.sh
+chmod +x ./hi.sh
