@@ -7,8 +7,8 @@ cd Desktop
 mkdir pytest
 cd pytest
 git clone https://github.com/ianhom/Python-Noob.git
-cd Python_Noob/Note_2
-
-chmod +x box.py
+cd Python-Noob/Note_2
+chmod +x *.py
 
 ./box.py
+I am a small box
