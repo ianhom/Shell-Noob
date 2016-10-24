@@ -11,4 +11,4 @@ cd Python-Noob/Note_2
 chmod +x *.py
 
 ./box.py
-I am a small box
+
