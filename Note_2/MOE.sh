@@ -2,8 +2,7 @@
 
 # This script is used to get MOE from GitHub.
 
-u = whoami
-
+u=$(whoami)
 cd /home/$u/Desktop
 mkdir ctest
 cd ctest
