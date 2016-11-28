@@ -6,4 +6,4 @@ u=$(whoami)
 cd /home/$u/Desktop
 mkdir ctest
 cd ctest
-git clone https://github.com/ianhom/MOE.git
+git clone https://github.com/ianhom/MOE.git  # For some situation, use git://github.com/ianhom/MOE.git
